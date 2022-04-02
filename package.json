@@ -1,0 +1,35 @@
+{
+  "name": "npm-grpc-gen",
+  "version": "0.0.3",
+  "description": "npm-grpc-gen",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib/**/*"
+  ],
+  "scripts": {
+    "build": "make build && tsc"
+  },
+  "dependencies": {
+    "@grpc/grpc-js": "^1.6.1",
+    "long": "^4.0.0",
+    "protobufjs": "^6.11.2"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.23",
+    "@types/typescript": "^2.0.0",
+    "grpc-tools": "^1.11.2",
+    "ts-proto": "^1.110.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanlyhs/packaging-grpc-gen-typescirpt-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lanlyhs/packaging-grpc-gen-typescirpt-example/issues"
+  },
+  "homepage": "https://github.com/lanlyhs/packaging-grpc-gen-typescirpt-example#readme"
+}

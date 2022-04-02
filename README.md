@@ -1,4 +1,4 @@
-# Packaging grpc generate code for typescirpt example
+# Packaging grpc generate code
 
 ## Renference
 
