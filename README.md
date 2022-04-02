@@ -1,5 +1,5 @@
 
-[![npm version](https://badge.fury.io/js/npm-grpc-gen.svg)](https://badge.fury.io/js/npm-grpc-gen)
+[![npm version](https://badge.fury.io/js/npm-grpc-gen.svg)](https://www.npmjs.com/package/npm-grpc-gen)
 
 # Packaging grpc generate code
 
