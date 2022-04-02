@@ -8,7 +8,7 @@
     "lib/**/*"
   ],
   "scripts": {
-    "build": "make build && tsc && ctix create ./tsconfig.json"
+    "build": "make build && ctix create ./tsconfig.json && tsc"
   },
   "dependencies": {
     "@grpc/grpc-js": "^1.6.1",
