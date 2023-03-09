@@ -1,6 +1,6 @@
 {
   "name": "npm-grpc-gen",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "npm-grpc-gen",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -24,13 +24,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lanlyhs/packaging-grpc-gen-typescirpt-example.git"
+    "url": "git+https://github.com/lanlyhs/npm-grpc-gen.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lanlyhs/packaging-grpc-gen-typescirpt-example/issues"
+    "url": "https://github.com/lanlyhs/npm-grpc-gen/issues"
   },
-  "homepage": "https://github.com/lanlyhs/packaging-grpc-gen-typescirpt-example#readme"
+  "homepage": "https://github.com/lanlyhs/npm-grpc-gen#readme"
 }
