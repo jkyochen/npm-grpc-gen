@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "npm-grpc-gen": "^0.0.3"
+    "npm-grpc-gen": "^0.0.4"
   }
 }

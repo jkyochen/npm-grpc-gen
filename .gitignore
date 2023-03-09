@@ -175,3 +175,4 @@ dist
 
 target/
 lib/
+package-lock.json
